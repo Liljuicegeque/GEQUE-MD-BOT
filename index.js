@@ -30,7 +30,7 @@ async function startBot() {
   global.sock = sock;
   global.settings = settings;
   global.signature = settings.signature || "> ꧁༆✌︎︎✞𝕲𝖊𝖖𝖚𝖊✞☬ঔৣ꧂";
-  global.owner = "5712927301696@lid" ownerJid;
+  global.owner = '5712927301696@lid' ownerJid;
   global.ownerNumber = "27683118183" ownerRaw;
 
   // ✅ Flags
