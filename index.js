@@ -31,7 +31,7 @@ async function startBot() {
   global.settings = settings;
   global.signature = settings.signature || "> ꧁༆✌︎︎✞𝕲𝖊𝖖𝖚𝖊✞☬ঔৣ꧂";
   global.owner =  ownerJid;
-  global.ownerNumber = "27683118183" ownerRaw;
+  global.ownerNumber = ownerRaw;
 
   // ✅ Flags
   global.antilink = {};
